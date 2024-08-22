@@ -105,7 +105,7 @@ main{
     gap: 18px;
     position: absolute;
     top: 720px;
-   
+    
 }
 
 .boton_encriptar {
@@ -134,8 +134,7 @@ main{
 .boton_desencriptar{    
     font-weight: 400;;
     background-color: #D8DFE8;    
-    width: 328px;
-    
+    width: 328px;    
 	max-width: 328px;
 	min-width: 160px;
     height: 67px;    
@@ -166,7 +165,8 @@ main{
     margin-top: 40px;
     border-radius: 32px;
     text-align: center;        
-    flex-direction: column;
+    
+    
 }
 
 .tarjeta_contenedor {  
@@ -230,12 +230,7 @@ main{
 .boton_copiar {           
     width: 224px;
 	max-width: 328px;
-	min-width: 160px; 
-    /*width: 336px;*/
-    height: 67px;
-    margin: 23px;    
-    bottom: 0;
-    left: 0;
+	min-width: 160px;   
     visibility: hidden;
     padding: 24px;
     font-size: 16px;
